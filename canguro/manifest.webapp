@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "Operación Canguro",
+  "launch_path": "/index.html",
+  "description": "Grupo secreto de canguros",
+  "developer": {
+    "name": "Jose M. Mira Barrientos, 
+             Cristian Franco Bedoya,
+             Juan D. Nariño Tapias",
+    
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "es",
+  "permissions": {
+  },
+  "locales": {
+    "es": {
+      "name": "Operación Canguro",
+      "description": "Grupo secreto de canguros"
+    }
+  }
+}
